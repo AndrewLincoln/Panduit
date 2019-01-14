@@ -1,0 +1,16 @@
+basic understanding of Java, application design, coding style and algorithm and data
+structure mastery. The application does not have to be functionally complete, but the more complete
+the better.
+
+
+Write a small graph library to create (add edges and vertices), manipulate (add/remove edges and
+vertices) and query (retrieve edges for vertex, determine connectivity) a graph data structure. Include
+automated tests for your code.
+Some or all of the following features can also be implemented. If you choose not to, be prepared to
+describe how you would do so during the interview.
+- Allow edges to have a direction.
+- Allow edges to have labels.
+- Allow edges to have weights.
+- Allow the graph to be stored on disk or transmitted across a network.
+- Allow the graph to be manipulated and queried safely from multiple threads.
+- Find the shortest path between 2 vertices (bonus points if this uses weighted edges).
